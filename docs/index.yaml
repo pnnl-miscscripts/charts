@@ -1,3 +1,18 @@
 apiVersion: v1
-entries: {}
-generated: 2019-02-03T18:16:00.51237483-08:00
+entries:
+  console:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: 2019-02-05T01:16:57.732103052Z
+    description: Console access from Kubernetes. Adds IPMI Support.
+    digest: 2a796549bcb3bd1e87cbf44df20cef664dd1092156b10d835770224c0518b5ab
+    keywords:
+    - console
+    - ipmi
+    name: console
+    sources:
+    - https://github.com/pnnl-miscscripts/miscscripts
+    urls:
+    - console-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-02-05T01:16:57.731582Z
