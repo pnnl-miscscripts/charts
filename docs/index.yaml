@@ -3,7 +3,7 @@ entries:
   chronyd:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-07T04:43:47.537498513Z"
+    created: "2019-12-12T04:44:30.72482176Z"
     description: Chronyd for Kubernetes
     digest: 88f6417e0e60edaf1c8cb3beaeff612000501d2189463962384503f11c0a2373
     name: chronyd
@@ -13,7 +13,7 @@ entries:
   console:
   - apiVersion: v1
     appVersion: 1.0.6
-    created: "2019-12-07T04:43:47.540848601Z"
+    created: "2019-12-12T04:44:30.728085235Z"
     description: Console access from Kubernetes. Adds IPMI Support.
     digest: 443f6291d5457b5bc8f20e3147faa125ef977fa77e8028e876bd84abcf9eb5b4
     keywords:
@@ -27,7 +27,7 @@ entries:
     version: 1.0.6
   - apiVersion: v1
     appVersion: 1.0.5
-    created: "2019-12-07T04:43:47.540496829Z"
+    created: "2019-12-12T04:44:30.727735701Z"
     description: Console access from Kubernetes. Adds IPMI Support.
     digest: 2ff0070bb66e82243d6e53c5c68767ca7deba4b4c88da84b9d16c99b31d8a94b
     keywords:
@@ -41,7 +41,7 @@ entries:
     version: 1.0.5
   - apiVersion: v1
     appVersion: 1.0.4
-    created: "2019-12-07T04:43:47.540101815Z"
+    created: "2019-12-12T04:44:30.72734817Z"
     description: Console access from Kubernetes. Adds IPMI Support.
     digest: 5e6f66ea6031dac6d7dab06a52831d1357f27ef5386c77ec1c12f61cf5b97644
     keywords:
@@ -55,7 +55,7 @@ entries:
     version: 1.0.4
   - apiVersion: v1
     appVersion: 1.0.3
-    created: "2019-12-07T04:43:47.539727493Z"
+    created: "2019-12-12T04:44:30.727005576Z"
     description: Console access from Kubernetes. Adds IPMI Support.
     digest: b5b2d09d140c07ac6f9b2ddb7f865ba7b79253f0a5c3cc5c255a751aee4da9e4
     keywords:
@@ -69,7 +69,7 @@ entries:
     version: 1.0.3
   - apiVersion: v1
     appVersion: 1.0.2
-    created: "2019-12-07T04:43:47.539320493Z"
+    created: "2019-12-12T04:44:30.72667278Z"
     description: Console access from Kubernetes. Adds IPMI Support.
     digest: 838ad9dbfb0f1f5da14a5f70c86dcdd512fe23612a96d4090ef84e3902419ed9
     keywords:
@@ -83,7 +83,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2019-12-07T04:43:47.538926951Z"
+    created: "2019-12-12T04:44:30.726278881Z"
     description: Console access from Kubernetes. Adds IPMI Support.
     digest: 6e97525185aa84df1be71e28cdc897eb74e16e33e8fc3418455d7bb7f544b7a9
     keywords:
@@ -97,7 +97,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2019-12-07T04:43:47.538227206Z"
+    created: "2019-12-12T04:44:30.72554967Z"
     description: Console access from Kubernetes. Adds IPMI Support.
     digest: 2a796549bcb3bd1e87cbf44df20cef664dd1092156b10d835770224c0518b5ab
     keywords:
@@ -110,7 +110,7 @@ entries:
     - console-1.0.0.tgz
     version: 1.0.0
   dhcpd:
-  - created: "2019-12-07T04:43:47.542062265Z"
+  - created: "2019-12-12T04:44:30.729251853Z"
     description: Super simple dhcp setup
     digest: 7bfda52a51209604af8db9c8f976fddf1e1ba69228fcb1e629889a758d9f1ac2
     keywords:
@@ -122,7 +122,7 @@ entries:
     urls:
     - dhcpd-0.1.3.tgz
     version: 0.1.3
-  - created: "2019-12-07T04:43:47.541763462Z"
+  - created: "2019-12-12T04:44:30.728954862Z"
     description: Super simple dhcp setup
     digest: 293332bc0099021bc1c0effacd13622c49a4646090366b86188bd1d6f3a76390
     keywords:
@@ -134,7 +134,7 @@ entries:
     urls:
     - dhcpd-0.1.2.tgz
     version: 0.1.2
-  - created: "2019-12-07T04:43:47.5414607Z"
+  - created: "2019-12-12T04:44:30.728668437Z"
     description: Super simple dhcp setup
     digest: 0865c7a312f47243e422bb8bc6a7ff2381701cef9573b9a52979e859223fcde2
     keywords:
@@ -146,7 +146,7 @@ entries:
     urls:
     - dhcpd-0.1.1.tgz
     version: 0.1.1
-  - created: "2019-12-07T04:43:47.54115666Z"
+  - created: "2019-12-12T04:44:30.728375165Z"
     description: Super simple dhcp setup
     digest: f2acc7e09caf68512d2c4a415a35f586bd895e5d78a51a3d93f69dac3c29b709
     keywords:
@@ -161,7 +161,7 @@ entries:
   k8s-node-image-1-13:
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.11-nginx-1
-    created: "2019-12-07T04:43:47.553836623Z"
+    created: "2019-12-12T04:44:30.740503167Z"
     description: A Helm chart for Kubernetes
     digest: e30fa11490f6a5d18b5addb160f37a031faab8dfb307825d15555d75b0358109
     name: k8s-node-image-1-13
@@ -170,7 +170,7 @@ entries:
     version: 0.1.25
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.10-nginx-5
-    created: "2019-12-07T04:43:47.553404607Z"
+    created: "2019-12-12T04:44:30.740084832Z"
     description: A Helm chart for Kubernetes
     digest: 0cb7c05a0ff84cee672bb91e5fce0cc2428d66cfb06066a3d2a6f2a0af41466d
     name: k8s-node-image-1-13
@@ -179,7 +179,7 @@ entries:
     version: 0.1.24
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.10-nginx-4
-    created: "2019-12-07T04:43:47.552946535Z"
+    created: "2019-12-12T04:44:30.739641823Z"
     description: A Helm chart for Kubernetes
     digest: 000d33396435e7ac31a8465cf8faf59a6cf93add8ef31519c8bece1e816456c7
     name: k8s-node-image-1-13
@@ -188,7 +188,7 @@ entries:
     version: 0.1.23
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.10-nginx-3
-    created: "2019-12-07T04:43:47.552454077Z"
+    created: "2019-12-12T04:44:30.739134331Z"
     description: A Helm chart for Kubernetes
     digest: e7b01f1743b7422f0e979a6466a3f7c581f4d30440a98b41cc72c8daf2c88235
     name: k8s-node-image-1-13
@@ -197,7 +197,7 @@ entries:
     version: 0.1.22
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.10-nginx-3
-    created: "2019-12-07T04:43:47.551928448Z"
+    created: "2019-12-12T04:44:30.738554487Z"
     description: A Helm chart for Kubernetes
     digest: 390c7dcddeafd1b1874fff29915ee8d9158e0e99ab751180ba69553ff13d96ea
     name: k8s-node-image-1-13
@@ -206,7 +206,7 @@ entries:
     version: 0.1.21
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.10-nginx-2
-    created: "2019-12-07T04:43:47.550945991Z"
+    created: "2019-12-12T04:44:30.737504035Z"
     description: A Helm chart for Kubernetes
     digest: 261e40d777f5cf1e7c36acd7636c41746bdd4b05edb9981062ae9e41fff2452f
     name: k8s-node-image-1-13
@@ -215,7 +215,7 @@ entries:
     version: 0.1.20
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.10-nginx-1
-    created: "2019-12-07T04:43:47.549154983Z"
+    created: "2019-12-12T04:44:30.735693581Z"
     description: A Helm chart for Kubernetes
     digest: 8415a83343ca5ae9c0a4ed5abd9a21b4256d91577c058cd44a4b2164662d4fd7
     name: k8s-node-image-1-13
@@ -224,7 +224,7 @@ entries:
     version: 0.1.19
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.9-nginx-1
-    created: "2019-12-07T04:43:47.548200398Z"
+    created: "2019-12-12T04:44:30.734713985Z"
     description: A Helm chart for Kubernetes
     digest: 908fa6e31cf60c8890e75972613a8ffda947ac0f7a83c5343cab27f45fa5f356
     name: k8s-node-image-1-13
@@ -233,7 +233,7 @@ entries:
     version: 0.1.18
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.9-nginx-1
-    created: "2019-12-07T04:43:47.546931646Z"
+    created: "2019-12-12T04:44:30.73389033Z"
     description: A Helm chart for Kubernetes
     digest: 7d5bc99c087fd683a122feccfa32a68dd13de511adabaeb516d79da6d812f664
     name: k8s-node-image-1-13
@@ -242,7 +242,7 @@ entries:
     version: 0.1.17
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.8-nginx-4
-    created: "2019-12-07T04:43:47.546407314Z"
+    created: "2019-12-12T04:44:30.733403666Z"
     description: A Helm chart for Kubernetes
     digest: 7cd393ff2d46fc8ff507ba5bb3948a3c2ea983b7df3936eb11a8f9139d154e63
     name: k8s-node-image-1-13
@@ -251,7 +251,7 @@ entries:
     version: 0.1.16
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.8-nginx-3
-    created: "2019-12-07T04:43:47.545930562Z"
+    created: "2019-12-12T04:44:30.732933355Z"
     description: A Helm chart for Kubernetes
     digest: 8a9f2b939388d2a83da50dbd142f9db57d29bf0c14cc98811e32b559fc614012
     name: k8s-node-image-1-13
@@ -260,7 +260,7 @@ entries:
     version: 0.1.15
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.8-nginx-2
-    created: "2019-12-07T04:43:47.54545169Z"
+    created: "2019-12-12T04:44:30.732447002Z"
     description: A Helm chart for Kubernetes
     digest: 76a3a25454807ed009f5d85702f18ef7ccb337e0dda732dd1af3f1ccc0c80aa9
     name: k8s-node-image-1-13
@@ -269,7 +269,7 @@ entries:
     version: 0.1.14
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.8-nginx-1
-    created: "2019-12-07T04:43:47.544934863Z"
+    created: "2019-12-12T04:44:30.731991945Z"
     description: A Helm chart for Kubernetes
     digest: b0934e61ddbc3a68d411e6056330f5de8e28241a7bed77702c77b436a221ea80
     name: k8s-node-image-1-13
@@ -278,7 +278,7 @@ entries:
     version: 0.1.13
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.7-nginx-6
-    created: "2019-12-07T04:43:47.544468661Z"
+    created: "2019-12-12T04:44:30.731521958Z"
     description: A Helm chart for Kubernetes
     digest: 5b603ae6ba9d07d3dfd1ed764b36da633a14258319e88d781ee393c539a60242
     name: k8s-node-image-1-13
@@ -287,7 +287,7 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.7-nginx-5
-    created: "2019-12-07T04:43:47.543832489Z"
+    created: "2019-12-12T04:44:30.731032051Z"
     description: A Helm chart for Kubernetes
     digest: 52125808804bd8320d488b808d451a2d4aaf3d4d5cdd89e60832a9964b53dff3
     name: k8s-node-image-1-13
@@ -296,7 +296,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.7-nginx-4
-    created: "2019-12-07T04:43:47.543409399Z"
+    created: "2019-12-12T04:44:30.730547663Z"
     description: A Helm chart for Kubernetes
     digest: d69daa3b21b3dfa376f80e4ca29c0fdf9ad213ac4a993cf049c24ec0681e523f
     name: k8s-node-image-1-13
@@ -305,7 +305,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.7-nginx-3
-    created: "2019-12-07T04:43:47.556922444Z"
+    created: "2019-12-12T04:44:30.743526271Z"
     description: A Helm chart for Kubernetes
     digest: 2921acd689780239ef8e144d24ccc84cb4e816d32064f0067fef0ace6b058730
     name: k8s-node-image-1-13
@@ -314,7 +314,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.7-nginx-2
-    created: "2019-12-07T04:43:47.55646138Z"
+    created: "2019-12-12T04:44:30.743068328Z"
     description: A Helm chart for Kubernetes
     digest: 63c5431164f000b89497a1c7488de328e8f2cd86aa33196c2671d36fa79664ab
     name: k8s-node-image-1-13
@@ -323,7 +323,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.7-nginx-1
-    created: "2019-12-07T04:43:47.5559915Z"
+    created: "2019-12-12T04:44:30.742570564Z"
     description: A Helm chart for Kubernetes
     digest: 76ae484aff4ff81917997a200e0b0201e24865049cb74871d225746f86ffb8b3
     name: k8s-node-image-1-13
@@ -332,7 +332,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.6-nginx-3
-    created: "2019-12-07T04:43:47.555537531Z"
+    created: "2019-12-12T04:44:30.742134228Z"
     description: A Helm chart for Kubernetes
     digest: 8fc6b764969d0912ce1f34e5a6be448133e1ea7242fb683e2f81af686312983b
     name: k8s-node-image-1-13
@@ -341,7 +341,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.6-nginx-2
-    created: "2019-12-07T04:43:47.555110199Z"
+    created: "2019-12-12T04:44:30.741716556Z"
     description: A Helm chart for Kubernetes
     digest: f8f64721444b5329f903127c3bcd1549a9eaa1f3e30aa722b14711573663c240
     name: k8s-node-image-1-13
@@ -350,7 +350,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.6-nginx-1
-    created: "2019-12-07T04:43:47.554684116Z"
+    created: "2019-12-12T04:44:30.741315302Z"
     description: A Helm chart for Kubernetes
     digest: ac471e9dc02963911f9e3a7248edb797cb0c72608552b7ead27ce72f36a42e32
     name: k8s-node-image-1-13
@@ -359,7 +359,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.5-nginx-1
-    created: "2019-12-07T04:43:47.554251994Z"
+    created: "2019-12-12T04:44:30.740901555Z"
     description: A Helm chart for Kubernetes
     digest: 9748ffc75fbdc71bd2bbfbca3664667305076ebd7a7a55a233adc09eacc7c9ec
     name: k8s-node-image-1-13
@@ -368,7 +368,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.5-nginx-1
-    created: "2019-12-07T04:43:47.55003894Z"
+    created: "2019-12-12T04:44:30.736582242Z"
     description: A Helm chart for Kubernetes
     digest: c65e958a17840cf87200d2c688230833988a930f083b0c065aac352af520f459
     name: k8s-node-image-1-13
@@ -377,7 +377,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.5-nginx-1
-    created: "2019-12-07T04:43:47.542955091Z"
+    created: "2019-12-12T04:44:30.730123514Z"
     description: A Helm chart for Kubernetes
     digest: 188d36e3213db1bd88606fedf5c4a4ab55179741705160d8bb1c9a707c7ca5de
     name: k8s-node-image-1-13
@@ -386,7 +386,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: k8s-node-image-1.13.5-nginx-1
-    created: "2019-12-07T04:43:47.542538539Z"
+    created: "2019-12-12T04:44:30.729714288Z"
     description: A Helm chart for Kubernetes
     digest: 7ba8ea02c6c238c4d0684d6482b09ece0af278459cb923020ea400f5d9639754
     name: k8s-node-image-1-13
@@ -395,8 +395,17 @@ entries:
     version: 0.1.0
   k8s-node-image-1-14:
   - apiVersion: v1
+    appVersion: k8s-node-image-1.14.10-nginx-1
+    created: "2019-12-12T04:44:30.762802019Z"
+    description: A Helm chart for Kubernetes
+    digest: fb103b204cf9b229f10080e384ee6a4bf80deec8b7a376bc659e9b9590747509
+    name: k8s-node-image-1-14
+    urls:
+    - k8s-node-image-1-14-0.1.38.tgz
+    version: 0.1.38
+  - apiVersion: v1
     appVersion: k8s-node-image-1.14.9-nginx-5
-    created: "2019-12-07T04:43:47.574378718Z"
+    created: "2019-12-12T04:44:30.761940475Z"
     description: A Helm chart for Kubernetes
     digest: c1e2b9be1fd297ec10955aa83be03dfc615826ce6b1e677021cf05efb14c248e
     name: k8s-node-image-1-14
@@ -405,7 +414,7 @@ entries:
     version: 0.1.37
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.9-nginx-4
-    created: "2019-12-07T04:43:47.573896745Z"
+    created: "2019-12-12T04:44:30.761110376Z"
     description: A Helm chart for Kubernetes
     digest: f6d7ad520413df76b7790790c048218e33b79a46f656a26cd28d431d7fc34262
     name: k8s-node-image-1-14
@@ -414,7 +423,7 @@ entries:
     version: 0.1.36
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.9-nginx-3
-    created: "2019-12-07T04:43:47.573464207Z"
+    created: "2019-12-12T04:44:30.760210741Z"
     description: A Helm chart for Kubernetes
     digest: 0bc96dcd315304e43ad5923572ebaa5c63fd35f705810aa7a723f0f5e53ab149
     name: k8s-node-image-1-14
@@ -423,7 +432,7 @@ entries:
     version: 0.1.35
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.9-nginx-2
-    created: "2019-12-07T04:43:47.573016325Z"
+    created: "2019-12-12T04:44:30.759042599Z"
     description: A Helm chart for Kubernetes
     digest: d92d3f38814e64fead5bddb760d0b0987085176fb1e1820132e346417486741b
     name: k8s-node-image-1-14
@@ -432,7 +441,7 @@ entries:
     version: 0.1.34
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.9-nginx-1
-    created: "2019-12-07T04:43:47.572585977Z"
+    created: "2019-12-12T04:44:30.758621914Z"
     description: A Helm chart for Kubernetes
     digest: 673c0a13fb811e98e74b9e65b1b1511a7b7359cf79552d45572ff7f2a8f48375
     name: k8s-node-image-1-14
@@ -441,7 +450,7 @@ entries:
     version: 0.1.33
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.8-nginx-5
-    created: "2019-12-07T04:43:47.572099588Z"
+    created: "2019-12-12T04:44:30.758063092Z"
     description: A Helm chart for Kubernetes
     digest: b6b016d7ba1ff3900d153ac4fae29eb24466d73d5f74f4e3be8156093e425f69
     name: k8s-node-image-1-14
@@ -450,7 +459,7 @@ entries:
     version: 0.1.32
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.8-nginx-4
-    created: "2019-12-07T04:43:47.571641103Z"
+    created: "2019-12-12T04:44:30.757628824Z"
     description: A Helm chart for Kubernetes
     digest: 6f88f8d1706631afc0991be5faa68a9e172d7286e53b74878a2db974eff27538
     name: k8s-node-image-1-14
@@ -459,7 +468,7 @@ entries:
     version: 0.1.31
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.8-nginx-3
-    created: "2019-12-07T04:43:47.571210836Z"
+    created: "2019-12-12T04:44:30.757167102Z"
     description: A Helm chart for Kubernetes
     digest: 8cdb8b7b0c88ce319b8139fad8f68b350a3d6956624b046c73e5b11721d78d20
     name: k8s-node-image-1-14
@@ -468,7 +477,7 @@ entries:
     version: 0.1.30
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.8-nginx-2
-    created: "2019-12-07T04:43:47.570332436Z"
+    created: "2019-12-12T04:44:30.756262686Z"
     description: A Helm chart for Kubernetes
     digest: f8a585b679404657d4e48fe34e6ffdb29503b6b5e2c7805cb05d15e398587e55
     name: k8s-node-image-1-14
@@ -477,7 +486,7 @@ entries:
     version: 0.1.29
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.8-nginx-1
-    created: "2019-12-07T04:43:47.569881518Z"
+    created: "2019-12-12T04:44:30.755808716Z"
     description: A Helm chart for Kubernetes
     digest: a4a62e8a7ff7c1e1c9f7f94145568d02d2e3f906feeb1b1ba59008e0d5dad61d
     name: k8s-node-image-1-14
@@ -486,7 +495,7 @@ entries:
     version: 0.1.28
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.7-nginx-3
-    created: "2019-12-07T04:43:47.569445567Z"
+    created: "2019-12-12T04:44:30.755388686Z"
     description: A Helm chart for Kubernetes
     digest: 451edfd76696d48f7e2a0f33f018f5d38f9e419697f2e084d545fbe21ccc6c1c
     name: k8s-node-image-1-14
@@ -495,7 +504,7 @@ entries:
     version: 0.1.27
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.7-nginx-2
-    created: "2019-12-07T04:43:47.568998733Z"
+    created: "2019-12-12T04:44:30.754926228Z"
     description: A Helm chart for Kubernetes
     digest: 9b22fdb4c2c3978e4cf094410f5d34146a8ba5e95fbc86374b602eb9caf70ef0
     name: k8s-node-image-1-14
@@ -504,7 +513,7 @@ entries:
     version: 0.1.26
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.7-nginx-1
-    created: "2019-12-07T04:43:47.568555057Z"
+    created: "2019-12-12T04:44:30.75449636Z"
     description: A Helm chart for Kubernetes
     digest: f0365b21c33a62fb7330e8ef6f82923e58df78f880558a6c6b54dc0a8787acd1
     name: k8s-node-image-1-14
@@ -513,7 +522,7 @@ entries:
     version: 0.1.25
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.6-nginx-5
-    created: "2019-12-07T04:43:47.568052815Z"
+    created: "2019-12-12T04:44:30.753956634Z"
     description: A Helm chart for Kubernetes
     digest: 6bcc1d5895edd8bff2620c77e84dc49a8bbb273adf19fd5d99bfe5a739d93a88
     name: k8s-node-image-1-14
@@ -522,7 +531,7 @@ entries:
     version: 0.1.24
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.6-nginx-4
-    created: "2019-12-07T04:43:47.56762387Z"
+    created: "2019-12-12T04:44:30.753513524Z"
     description: A Helm chart for Kubernetes
     digest: 122189cab71cf4bb2e8db1b290e67592b9a39c0fd83d64e8289e96ac37c969e3
     name: k8s-node-image-1-14
@@ -531,7 +540,7 @@ entries:
     version: 0.1.23
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.6-nginx-3
-    created: "2019-12-07T04:43:47.567187966Z"
+    created: "2019-12-12T04:44:30.753082168Z"
     description: A Helm chart for Kubernetes
     digest: c3544a65f3f3c6f3b172b42aefdd42ad7637f6248368717c920a89995bf336d3
     name: k8s-node-image-1-14
@@ -540,7 +549,7 @@ entries:
     version: 0.1.22
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.6-nginx-3
-    created: "2019-12-07T04:43:47.566694785Z"
+    created: "2019-12-12T04:44:30.752604232Z"
     description: A Helm chart for Kubernetes
     digest: d41c1f7a5394d4e38f60841f324722b85c43e0c97635deef90dd8223d30fea9f
     name: k8s-node-image-1-14
@@ -549,7 +558,7 @@ entries:
     version: 0.1.21
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.6-nginx-2
-    created: "2019-12-07T04:43:47.566226326Z"
+    created: "2019-12-12T04:44:30.752074682Z"
     description: A Helm chart for Kubernetes
     digest: 8f88fe2d2cd34e125e9d92942043bbb3507d6fd7a35a3c504c78a9e06c3cb795
     name: k8s-node-image-1-14
@@ -558,7 +567,7 @@ entries:
     version: 0.1.20
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.6-nginx-1
-    created: "2019-12-07T04:43:47.564449768Z"
+    created: "2019-12-12T04:44:30.751164302Z"
     description: A Helm chart for Kubernetes
     digest: 3dbe6434fcbf0a591bf5c1e3932f36224d69504ffc5b2b6b17d8dccbe8a59cf8
     name: k8s-node-image-1-14
@@ -567,7 +576,7 @@ entries:
     version: 0.1.19
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.5-nginx-1
-    created: "2019-12-07T04:43:47.563476539Z"
+    created: "2019-12-12T04:44:30.75071402Z"
     description: A Helm chart for Kubernetes
     digest: 8a6d01c43a2f160a8fb5efa3d0e98324b4142734fd2b702ea22477de9f833326
     name: k8s-node-image-1-14
@@ -576,7 +585,7 @@ entries:
     version: 0.1.18
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.5-nginx-1
-    created: "2019-12-07T04:43:47.562506034Z"
+    created: "2019-12-12T04:44:30.749044559Z"
     description: A Helm chart for Kubernetes
     digest: 6b5a7d1a41ae00588b375dcf864627f7aea28e3bc928c73d85d25655a9508ab1
     name: k8s-node-image-1-14
@@ -585,7 +594,7 @@ entries:
     version: 0.1.17
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.4-nginx-3
-    created: "2019-12-07T04:43:47.561677793Z"
+    created: "2019-12-12T04:44:30.748197273Z"
     description: A Helm chart for Kubernetes
     digest: 01f0c6783874d02409806f19351097cd0f55989390823db7a2de3a5a9bc680d6
     name: k8s-node-image-1-14
@@ -594,7 +603,7 @@ entries:
     version: 0.1.16
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.4-nginx-2
-    created: "2019-12-07T04:43:47.560755944Z"
+    created: "2019-12-12T04:44:30.747190091Z"
     description: A Helm chart for Kubernetes
     digest: ec90911b3da966e763ea931de5033e824b7c0a0939a48dd6e4aa2b6ba7aa1285
     name: k8s-node-image-1-14
@@ -603,7 +612,7 @@ entries:
     version: 0.1.15
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.4-nginx-1
-    created: "2019-12-07T04:43:47.560251177Z"
+    created: "2019-12-12T04:44:30.746512486Z"
     description: A Helm chart for Kubernetes
     digest: 3c77ee87229e4fa2121142a52ba423f54ba4b47937a08bcd57dabc9682ee11cd
     name: k8s-node-image-1-14
@@ -612,7 +621,7 @@ entries:
     version: 0.1.14
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.3-nginx-7
-    created: "2019-12-07T04:43:47.559817885Z"
+    created: "2019-12-12T04:44:30.746097917Z"
     description: A Helm chart for Kubernetes
     digest: 8adf915f410ede74888ff163caf46b2ae10d02fbb7afb73c14b19e965b064f11
     name: k8s-node-image-1-14
@@ -621,7 +630,7 @@ entries:
     version: 0.1.13
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.3-nginx-6
-    created: "2019-12-07T04:43:47.559335146Z"
+    created: "2019-12-12T04:44:30.745678328Z"
     description: A Helm chart for Kubernetes
     digest: cc5a88dd55f2be184e6a74920a4bba866f153a284cd6eae74605406ab0ddefe8
     name: k8s-node-image-1-14
@@ -630,7 +639,7 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.3-nginx-5
-    created: "2019-12-07T04:43:47.558859126Z"
+    created: "2019-12-12T04:44:30.745245301Z"
     description: A Helm chart for Kubernetes
     digest: ec8f77601b36f75e0fc89693ac0b02ed918a9c3fd066bef6d0cbca0e7e96a7f2
     name: k8s-node-image-1-14
@@ -639,7 +648,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.3-nginx-4
-    created: "2019-12-07T04:43:47.558397392Z"
+    created: "2019-12-12T04:44:30.744809428Z"
     description: A Helm chart for Kubernetes
     digest: 4d8c2e096607e59851108d3600c54c337ef9eadd451ff2f61db160493ccc3ec4
     name: k8s-node-image-1-14
@@ -648,7 +657,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.3-nginx-3
-    created: "2019-12-07T04:43:47.580074849Z"
+    created: "2019-12-12T04:44:30.765696115Z"
     description: A Helm chart for Kubernetes
     digest: 9e2df0c5fdc346072cb897b0a2e59d210e6f71e0e5ed8ce017affeaf6165380b
     name: k8s-node-image-1-14
@@ -657,7 +666,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.3-nginx-2
-    created: "2019-12-07T04:43:47.579464594Z"
+    created: "2019-12-12T04:44:30.765276094Z"
     description: A Helm chart for Kubernetes
     digest: 8eb984c9fb587839d1a5b6f0e88b7511b982c0c419a95413387ae14c3e1ec381
     name: k8s-node-image-1-14
@@ -666,7 +675,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.3-nginx-1
-    created: "2019-12-07T04:43:47.57860418Z"
+    created: "2019-12-12T04:44:30.764845979Z"
     description: A Helm chart for Kubernetes
     digest: 01b0d5351e897a1b2ba6c1ae86f9d33718379702e84a1b7dcc0d7fb6c91a2315
     name: k8s-node-image-1-14
@@ -675,7 +684,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.2-nginx-1
-    created: "2019-12-07T04:43:47.576679851Z"
+    created: "2019-12-12T04:44:30.764445153Z"
     description: A Helm chart for Kubernetes
     digest: e25c00f5a3d7bc28c30174efd321a939eb3f689f6cfa28d289af6906cd245b0e
     name: k8s-node-image-1-14
@@ -684,7 +693,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.1-nginx-3
-    created: "2019-12-07T04:43:47.575825498Z"
+    created: "2019-12-12T04:44:30.764033936Z"
     description: A Helm chart for Kubernetes
     digest: 1dfd2726a5d9505bf63e30f6eee0dc09ba32bb2b813b528abfec549ec2fddc21
     name: k8s-node-image-1-14
@@ -693,7 +702,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.1-nginx-2
-    created: "2019-12-07T04:43:47.574784474Z"
+    created: "2019-12-12T04:44:30.763612602Z"
     description: A Helm chart for Kubernetes
     digest: 3b6e3c277097c84ecad7b40aee3b487b0fcd35e9941c8dbc79158b6d16f3177e
     name: k8s-node-image-1-14
@@ -702,7 +711,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.1-nginx-1
-    created: "2019-12-07T04:43:47.570775294Z"
+    created: "2019-12-12T04:44:30.756743932Z"
     description: A Helm chart for Kubernetes
     digest: e759b56dbe8c95db89e979e82a64a438f45584864c860242fb48027f4a85cf15
     name: k8s-node-image-1-14
@@ -711,7 +720,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.1-nginx-1
-    created: "2019-12-07T04:43:47.565329964Z"
+    created: "2019-12-12T04:44:30.751640449Z"
     description: A Helm chart for Kubernetes
     digest: 7474c761a3a68a13a50fb6e471f09fea21589d6728941de4f96d93b9726d555a
     name: k8s-node-image-1-14
@@ -720,7 +729,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.1-nginx-1
-    created: "2019-12-07T04:43:47.557947563Z"
+    created: "2019-12-12T04:44:30.744373503Z"
     description: A Helm chart for Kubernetes
     digest: 552bf722dc3cc1662ab86372fecd35dac0882e203c0703aca378c9d63b66465c
     name: k8s-node-image-1-14
@@ -729,7 +738,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: k8s-node-image-1.14.1-nginx-1
-    created: "2019-12-07T04:43:47.55740849Z"
+    created: "2019-12-12T04:44:30.743937053Z"
     description: A Helm chart for Kubernetes
     digest: af8241aca6a6993f10d0cb3f841aa11e2958110fa566c6a7526317c28300c9f4
     name: k8s-node-image-1-14
@@ -738,8 +747,17 @@ entries:
     version: 0.1.0
   k8s-node-image-1-15:
   - apiVersion: v1
+    appVersion: k8s-node-image-1.15.7-nginx-1
+    created: "2019-12-12T04:44:30.775697808Z"
+    description: A Helm chart for Kubernetes
+    digest: 47ef55280176bec66438f88cdbaaf4e1fcb01922836e45fc6fd58b9e674e6705
+    name: k8s-node-image-1-15
+    urls:
+    - k8s-node-image-1-15-0.2.24.tgz
+    version: 0.2.24
+  - apiVersion: v1
     appVersion: k8s-node-image-1.15.6-nginx-5
-    created: "2019-12-07T04:43:47.589720772Z"
+    created: "2019-12-12T04:44:30.774818252Z"
     description: A Helm chart for Kubernetes
     digest: c42d55bf8f27742365f7dd2b3195b860aa7520fac615adfc7128219eed2f5d70
     name: k8s-node-image-1-15
@@ -748,7 +766,7 @@ entries:
     version: 0.2.23
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.6-nginx-4
-    created: "2019-12-07T04:43:47.588861009Z"
+    created: "2019-12-12T04:44:30.773898269Z"
     description: A Helm chart for Kubernetes
     digest: 3f9389355ba77ad398594c7cf750b80623b4f3c0eff50d4a1eec6b96a0505db3
     name: k8s-node-image-1-15
@@ -757,7 +775,7 @@ entries:
     version: 0.2.22
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.6-nginx-3
-    created: "2019-12-07T04:43:47.588431709Z"
+    created: "2019-12-12T04:44:30.77300356Z"
     description: A Helm chart for Kubernetes
     digest: 819e7b8f06f151b2345a86dbf443d347e82aac5e3b1f7b98fb3b5aa0fc563941
     name: k8s-node-image-1-15
@@ -766,7 +784,7 @@ entries:
     version: 0.2.21
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.6-nginx-2
-    created: "2019-12-07T04:43:47.587931582Z"
+    created: "2019-12-12T04:44:30.771872929Z"
     description: A Helm chart for Kubernetes
     digest: 43f5cb8ffb651001413fdeec27cbc3884b3afaebce33762a77cf2b68bdfe6eb2
     name: k8s-node-image-1-15
@@ -775,7 +793,7 @@ entries:
     version: 0.2.20
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.6-nginx-1
-    created: "2019-12-07T04:43:47.587063389Z"
+    created: "2019-12-12T04:44:30.771000458Z"
     description: A Helm chart for Kubernetes
     digest: 583d5c9d8fbbe232d3b5576811795176205a795d8b358e58f3b089f216b0554a
     name: k8s-node-image-1-15
@@ -784,7 +802,7 @@ entries:
     version: 0.2.19
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.5-nginx-5
-    created: "2019-12-07T04:43:47.586567039Z"
+    created: "2019-12-12T04:44:30.770594497Z"
     description: A Helm chart for Kubernetes
     digest: f8d4625661894f048b9b637fa5219a5eb9916fbe5f0bd1a27f5278509f202dc0
     name: k8s-node-image-1-15
@@ -793,7 +811,7 @@ entries:
     version: 0.2.18
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.5-nginx-4
-    created: "2019-12-07T04:43:47.586102597Z"
+    created: "2019-12-12T04:44:30.770162632Z"
     description: A Helm chart for Kubernetes
     digest: d2da711706a94564d9e1d48e622153ddf3a9730158614d6b5f88756de91d3ea1
     name: k8s-node-image-1-15
@@ -802,7 +820,7 @@ entries:
     version: 0.2.17
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.5-nginx-3
-    created: "2019-12-07T04:43:47.585623227Z"
+    created: "2019-12-12T04:44:30.769693239Z"
     description: A Helm chart for Kubernetes
     digest: 1e9576abcb8ba4ca6fa1535d19ab6890304a47009562b6115e61c8e4b93c0eec
     name: k8s-node-image-1-15
@@ -811,7 +829,7 @@ entries:
     version: 0.2.16
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.5-nginx-2
-    created: "2019-12-07T04:43:47.585156228Z"
+    created: "2019-12-12T04:44:30.769271887Z"
     description: A Helm chart for Kubernetes
     digest: e31509461a01716c523bc9e3a07636964e4a4d246c17d69490fd34ca7de87add
     name: k8s-node-image-1-15
@@ -820,7 +838,7 @@ entries:
     version: 0.2.15
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.5-nginx-1
-    created: "2019-12-07T04:43:47.584618574Z"
+    created: "2019-12-12T04:44:30.768845882Z"
     description: A Helm chart for Kubernetes
     digest: 2e21fc765babbcd55bbf6a7c11f45f6c13d4847ae9be3fcf9402c3d8e3c93c87
     name: k8s-node-image-1-15
@@ -829,7 +847,7 @@ entries:
     version: 0.2.14
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.4-nginx-3
-    created: "2019-12-07T04:43:47.584077483Z"
+    created: "2019-12-12T04:44:30.768418638Z"
     description: A Helm chart for Kubernetes
     digest: f39468c48b48a45474180c1849e5afe545d9e067149a4311df03eccc9c0437f5
     name: k8s-node-image-1-15
@@ -838,7 +856,7 @@ entries:
     version: 0.2.13
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.4-nginx-2
-    created: "2019-12-07T04:43:47.583447496Z"
+    created: "2019-12-12T04:44:30.767934304Z"
     description: A Helm chart for Kubernetes
     digest: 57765ed23c3e9528c4a9200fbb5cefb5a612099edfd62a7b6a84c5817496340f
     name: k8s-node-image-1-15
@@ -847,7 +865,7 @@ entries:
     version: 0.2.12
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.4-nginx-1
-    created: "2019-12-07T04:43:47.582775031Z"
+    created: "2019-12-12T04:44:30.767504383Z"
     description: A Helm chart for Kubernetes
     digest: 40add571481aedd10eb528bee913d05546209cdc144782ad1df9ac9ff62b0855
     name: k8s-node-image-1-15
@@ -856,7 +874,7 @@ entries:
     version: 0.2.11
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.3-nginx-5
-    created: "2019-12-07T04:43:47.58211772Z"
+    created: "2019-12-12T04:44:30.767002327Z"
     description: A Helm chart for Kubernetes
     digest: f3ea44f65f83c75267986b7a8298b8652762b5e804c13cfb8f4a4a204fa212bb
     name: k8s-node-image-1-15
@@ -865,7 +883,7 @@ entries:
     version: 0.2.10
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.3-nginx-4
-    created: "2019-12-07T04:43:47.595097945Z"
+    created: "2019-12-12T04:44:30.779304004Z"
     description: A Helm chart for Kubernetes
     digest: 3f926400c3a829961e98bd6bc7462b1cd8bf2069ff7847cc6e71f458a3b6c5e4
     name: k8s-node-image-1-15
@@ -874,7 +892,7 @@ entries:
     version: 0.2.9
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.3-nginx-3
-    created: "2019-12-07T04:43:47.594671094Z"
+    created: "2019-12-12T04:44:30.778835429Z"
     description: A Helm chart for Kubernetes
     digest: 4b553acf4ccdd30f816079c58276c2d209fb5ffb50a91a575a38cfa19b97a198
     name: k8s-node-image-1-15
@@ -883,7 +901,7 @@ entries:
     version: 0.2.8
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.3-nginx-3
-    created: "2019-12-07T04:43:47.594117527Z"
+    created: "2019-12-12T04:44:30.778387134Z"
     description: A Helm chart for Kubernetes
     digest: 7241888d642fac865acf8e86904d14d7aa770d28dc40fa2348cfd6c83557148f
     name: k8s-node-image-1-15
@@ -892,7 +910,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.3-nginx-2
-    created: "2019-12-07T04:43:47.593164027Z"
+    created: "2019-12-12T04:44:30.777930087Z"
     description: A Helm chart for Kubernetes
     digest: b7532dab856db3b21745ce2d3eaad5c95fde6c84ea60fa7ebc2e22136e940de9
     name: k8s-node-image-1-15
@@ -901,7 +919,7 @@ entries:
     version: 0.2.6
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.3-nginx-1
-    created: "2019-12-07T04:43:47.592300784Z"
+    created: "2019-12-12T04:44:30.777498587Z"
     description: A Helm chart for Kubernetes
     digest: 57ec86ca4017809c75ba90e42c57d1027ee3b22bf6b0ebee3193ae394f6c9789
     name: k8s-node-image-1-15
@@ -910,7 +928,7 @@ entries:
     version: 0.2.5
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.2-nginx-1
-    created: "2019-12-07T04:43:47.591451261Z"
+    created: "2019-12-12T04:44:30.777028759Z"
     description: A Helm chart for Kubernetes
     digest: aa6d7bc19adfabc05d45aeb6ca13148933a33d61d5bedd6357e3b9c0af0c3986
     name: k8s-node-image-1-15
@@ -919,7 +937,7 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.2-nginx-1
-    created: "2019-12-07T04:43:47.590574104Z"
+    created: "2019-12-12T04:44:30.77652553Z"
     description: A Helm chart for Kubernetes
     digest: 834e8112aa6ccfc107f1b8c071a80c1ea41c4eb5093e147f8d7bb657c78012ae
     name: k8s-node-image-1-15
@@ -928,7 +946,7 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.1-nginx-2
-    created: "2019-12-07T04:43:47.587512809Z"
+    created: "2019-12-12T04:44:30.771447827Z"
     description: A Helm chart for Kubernetes
     digest: 36f17f39c0cf96997d1fe196675f0cdb8bd4d254b8e990b7749a71cbc1e7b6a9
     name: k8s-node-image-1-15
@@ -937,7 +955,7 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.1-nginx-1
-    created: "2019-12-07T04:43:47.581455739Z"
+    created: "2019-12-12T04:44:30.766583181Z"
     description: A Helm chart for Kubernetes
     digest: 21324ba8343c3e2d09fe11ad680a612191e5741b8dbdd65e97075cfd70dba2e9
     name: k8s-node-image-1-15
@@ -946,7 +964,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: k8s-node-image-1.15.0-nginx-6
-    created: "2019-12-07T04:43:47.580741831Z"
+    created: "2019-12-12T04:44:30.766108334Z"
     description: A Helm chart for Kubernetes
     digest: df0d23bc4b9fff413a9127f2e1c1d9a173ea967b31b87eb89533c00a5535f1f4
     name: k8s-node-image-1-15
@@ -955,8 +973,17 @@ entries:
     version: 0.2.0
   k8s-node-image-1-16:
   - apiVersion: v1
+    appVersion: k8s-node-image-1.16.4-nginx-1
+    created: "2019-12-12T04:44:30.782315689Z"
+    description: A Helm chart for Kubernetes
+    digest: 491d9aa63626072a0bdd2b49f54b10262d0e6c6ddb76f055b4d127ff76e3400d
+    name: k8s-node-image-1-16
+    urls:
+    - k8s-node-image-1-16-0.2.14.tgz
+    version: 0.2.14
+  - apiVersion: v1
     appVersion: k8s-node-image-1.16.3-nginx-5
-    created: "2019-12-07T04:43:47.598320156Z"
+    created: "2019-12-12T04:44:30.781891432Z"
     description: A Helm chart for Kubernetes
     digest: a8eebeac5b0d47a0ff4d538ddf38b1bb50d25854df53c4146d88c05425ee57d0
     name: k8s-node-image-1-16
@@ -965,7 +992,7 @@ entries:
     version: 0.2.13
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.3-nginx-4
-    created: "2019-12-07T04:43:47.597855905Z"
+    created: "2019-12-12T04:44:30.781466532Z"
     description: A Helm chart for Kubernetes
     digest: 8e7521a70c23a201dd5259b2de0405be9be751c2e01d8c08cb3830f0d3749310
     name: k8s-node-image-1-16
@@ -974,7 +1001,7 @@ entries:
     version: 0.2.12
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.3-nginx-3
-    created: "2019-12-07T04:43:47.597331584Z"
+    created: "2019-12-12T04:44:30.781030053Z"
     description: A Helm chart for Kubernetes
     digest: 599eae7050383b505ab20dbebf1875c8c173d5ee50b02a49b3c372188ffe31ac
     name: k8s-node-image-1-16
@@ -983,7 +1010,7 @@ entries:
     version: 0.2.11
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.3-nginx-2
-    created: "2019-12-07T04:43:47.596849813Z"
+    created: "2019-12-12T04:44:30.780615316Z"
     description: A Helm chart for Kubernetes
     digest: d7a48ff145a052bd9368e45a82c4930b4cad928da6eb49edc9126e18b5411b2a
     name: k8s-node-image-1-16
@@ -992,7 +1019,7 @@ entries:
     version: 0.2.10
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.3-nginx-1
-    created: "2019-12-07T04:43:47.60264891Z"
+    created: "2019-12-12T04:44:30.786864249Z"
     description: A Helm chart for Kubernetes
     digest: 2927f056f3f428a0fdb11bcb2aa12b1b2094343d25292b802a5a264e6a60f65d
     name: k8s-node-image-1-16
@@ -1001,7 +1028,7 @@ entries:
     version: 0.2.9
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.3-nginx-1
-    created: "2019-12-07T04:43:47.602161006Z"
+    created: "2019-12-12T04:44:30.786022795Z"
     description: A Helm chart for Kubernetes
     digest: 10bd08986da9b3f5e333cb0799b0c2cf387de1d41f6290d544c7405083383961
     name: k8s-node-image-1-16
@@ -1010,7 +1037,7 @@ entries:
     version: 0.2.8
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.2-nginx-5
-    created: "2019-12-07T04:43:47.60165957Z"
+    created: "2019-12-12T04:44:30.784981006Z"
     description: A Helm chart for Kubernetes
     digest: 62393848066b0e32c87adb80cfb1b5573621e2f5690f5bcd973332612eaf3ae8
     name: k8s-node-image-1-16
@@ -1019,7 +1046,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.2-nginx-4
-    created: "2019-12-07T04:43:47.601014526Z"
+    created: "2019-12-12T04:44:30.784536957Z"
     description: A Helm chart for Kubernetes
     digest: e30a4cd1594f6e3901f900b1fa6ae7bc25cef8ad10a762e8dfb548e8e84035b4
     name: k8s-node-image-1-16
@@ -1028,7 +1055,7 @@ entries:
     version: 0.2.6
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.2-nginx-3
-    created: "2019-12-07T04:43:47.600240698Z"
+    created: "2019-12-12T04:44:30.784114933Z"
     description: A Helm chart for Kubernetes
     digest: 87c4b68b472d24a1d5cd2dee3a12f13116cd917059f98c26641d270de36a2664
     name: k8s-node-image-1-16
@@ -1037,7 +1064,7 @@ entries:
     version: 0.2.5
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.2-nginx-2
-    created: "2019-12-07T04:43:47.599726109Z"
+    created: "2019-12-12T04:44:30.783682102Z"
     description: A Helm chart for Kubernetes
     digest: 20624cb6318a810a088f74912dd7e24ae8cc43f13412b78ecef51126e3afb026
     name: k8s-node-image-1-16
@@ -1046,7 +1073,7 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.2-nginx-1
-    created: "2019-12-07T04:43:47.599276107Z"
+    created: "2019-12-12T04:44:30.783183046Z"
     description: A Helm chart for Kubernetes
     digest: fc5d189006e2a2a2e986398fb698eaf31303cb631f9050cec615282a950a243c
     name: k8s-node-image-1-16
@@ -1055,7 +1082,7 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.1-nginx-1
-    created: "2019-12-07T04:43:47.598798529Z"
+    created: "2019-12-12T04:44:30.782737832Z"
     description: A Helm chart for Kubernetes
     digest: 1d1756a97ff369ef8b43e1d6bbf2f5ca3942465b5b411bd881a8269d474e58ec
     name: k8s-node-image-1-16
@@ -1064,7 +1091,7 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.0-nginx-2
-    created: "2019-12-07T04:43:47.596337313Z"
+    created: "2019-12-12T04:44:30.780200564Z"
     description: A Helm chart for Kubernetes
     digest: eebdf9a0891be407196d88461e72dce98cab5124b4b449bc3cbb19e9ebaddd8a
     name: k8s-node-image-1-16
@@ -1073,7 +1100,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: k8s-node-image-1.16.0-nginx-1
-    created: "2019-12-07T04:43:47.595581014Z"
+    created: "2019-12-12T04:44:30.779768646Z"
     description: A Helm chart for Kubernetes
     digest: fb92a5449edc43a15ec30e45463ffc2d95fc9e630a7ebf2c61fa6895e8122098
     name: k8s-node-image-1-16
@@ -1083,7 +1110,7 @@ entries:
   nginx-app:
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2019-12-07T04:43:47.603339887Z"
+    created: "2019-12-12T04:44:30.788051042Z"
     description: A Simple Web service Chart
     digest: 34d503fd0a7f77786d30cc41eb0a009fe33b8b557ef7c19a6045b4e17a576284
     name: nginx-app
@@ -1092,7 +1119,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-07T04:43:47.603012016Z"
+    created: "2019-12-12T04:44:30.787492841Z"
     description: A Simple Web service Chart
     digest: fb56845cc75974cddda9524ffb2fa10dff0ff577826d347c74def76e3fec1a86
     name: nginx-app
@@ -1100,7 +1127,7 @@ entries:
     - nginx-app-0.1.0.tgz
     version: 0.1.0
   pixiecore:
-  - created: "2019-12-07T04:43:47.604262862Z"
+  - created: "2019-12-12T04:44:30.789946182Z"
     description: pixiecore
     digest: 1d9508fde526ac55472024fd90780634aa87b14e45103964a065a83c9dd4b297
     maintainers:
@@ -1110,7 +1137,7 @@ entries:
     urls:
     - pixiecore-0.0.3.tgz
     version: 0.0.3
-  - created: "2019-12-07T04:43:47.603973293Z"
+  - created: "2019-12-12T04:44:30.789285615Z"
     description: pixiecore
     digest: f08292e3a54056e1e451328d49af96358d64525d35311e6bf333f7a915c7c0c0
     maintainers:
@@ -1120,7 +1147,7 @@ entries:
     urls:
     - pixiecore-0.0.2.tgz
     version: 0.0.2
-  - created: "2019-12-07T04:43:47.603685313Z"
+  - created: "2019-12-12T04:44:30.788657621Z"
     description: pixiecore
     digest: 71e23575ec47706b61b6c332d04a722f537b9dbd3028e2579afc97d8f1a0aad9
     maintainers:
@@ -1133,7 +1160,7 @@ entries:
   pixiecore-simpleconfig:
   - apiVersion: v1
     appVersion: 0.1.2
-    created: "2019-12-07T04:43:47.606046494Z"
+    created: "2019-12-12T04:44:30.790721662Z"
     description: Helm chart for simple config of pixiecore
     digest: cf0efcf6c5b14f52b8dcfa1dd15f54d2e33f4fa236e0194d30c8e96d887b1d12
     name: pixiecore-simpleconfig
@@ -1142,7 +1169,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2019-12-07T04:43:47.605584842Z"
+    created: "2019-12-12T04:44:30.790464029Z"
     description: Helm chart for simple config of pixiecore
     digest: 02de98fd53f4ed1380ead33417472c0145334e411dd37124b8ff0ab4febb1bbb
     name: pixiecore-simpleconfig
@@ -1151,7 +1178,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-07T04:43:47.605069094Z"
+    created: "2019-12-12T04:44:30.790209242Z"
     description: Helm chart for simple config of pixiecore
     digest: 09e7675ce9037c6453344cd78d56961a2128e88aaaf75a55caa25eb792809541
     name: pixiecore-simpleconfig
@@ -1161,7 +1188,7 @@ entries:
   tenant-namespace:
   - apiVersion: v1
     appVersion: 0.6.1
-    created: "2019-12-07T04:43:47.611674934Z"
+    created: "2019-12-12T04:44:30.794338928Z"
     description: Chart for setting up a tenants namespace with all the goodies
     digest: 7bb7ad6c31e7fe5440f9a3899b82024d33b0bb2751d2c67cd282b46ad34ad903
     name: tenant-namespace
@@ -1170,11 +1197,11 @@ entries:
     version: 0.6.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-07T04:43:47.609587667Z"
+    created: "2019-12-12T04:44:30.792401884Z"
     description: Chart for setting up a tenants namespace with all the goodies
     digest: b28e2956f898ce73e17fbc7a1b3864e3e448c3ce29979e60adf1057130ec8840
     name: tenant-namespace
     urls:
     - tenant-namespace-0.6.0.tgz
     version: 0.6.0
-generated: "2019-12-07T04:43:47.536399394Z"
+generated: "2019-12-12T04:44:30.723773976Z"
